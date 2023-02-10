@@ -1,1 +1,2 @@
-NewScrenn
+def welcome:
+  print("welcome")
