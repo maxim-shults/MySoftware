@@ -1,1 +1,2 @@
-hello from file
+def (click):
+  print("click")
